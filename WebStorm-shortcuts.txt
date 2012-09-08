@@ -1,0 +1,270 @@
+F1,Context Help (Show context help)
+F11,Toggle Bookmark (Toggle bookmark at the current location)
+F12,Jump to Last Tool Window (Activate last focused tool window)
+F2,Next Highlighted Error (Navigate to the next highlighted error in the active editor)
+F3,Find Next (Repeat the last Find/Replace operation)
+F4,Jump to Source (Open editor for the selected item and give focus to it)
+F5,Copy... (Create a copy of the selected class, file(s) or directory(es))
+F6,Move... (Move the selected class, method, package or static member to another package or class and correct all references)
+F7,Move to the next difference (Move to the Next Difference)
+F7,Step Into (Step to the next line executed)
+F8,Step Over (Step to the next line in this file)
+F9,Resume Program (Resume program execution)
+INSERT,Toggle Insert/Overwrite
+TAB,Choose Lookup Item Replace
+TAB,Next Template Variable
+alt 1,Project (Activate Project window)
+alt 2,Favorites (Activate Favorites window)
+alt 4,Run (Activate Run window)
+alt 5,Debug (Activate Debug window)
+alt 6,TODO (Activate TODO window)
+alt 7,Structure (Activate Structure window)
+alt 9,Changes (Activate Changes window)
+alt BACK_QUOTE,VCS Operations Popup... (Context aware popup with list of commonly used VCS actions)
+alt DELETE,Safe Delete... (Delete the selected class, method or field, checking for usages)
+alt DOWN,Next Method (Navigate to the next method in the active editor)
+alt ENTER,Show Intention Actions
+alt F1,Change View... (Choose Project, Sourcepath or Classpath tree in the Project View window)
+alt F1,Select In... (Select the current class or method in any view)
+alt F10,Show Execution Point (Show the current program execution point)
+alt F2,Web Preview...
+alt F3,Find... (Find a string in active editor)
+alt F7,Find Usages... (Find usages of the symbol at caret)
+alt F8,Evaluate Expression... (Evaluate arbitrary expression)
+alt F9,Run to Cursor (Run to the line where the caret is)
+alt HOME,Jump to Navigation Bar
+alt INSERT,Generate... (Generate constructor, getter or setter method, etc.)
+alt INSERT,New Folder... (Create new folder)
+alt INSERT,New... (Create new class, interface, file or directory)
+alt LEFT,Select Previous Tab (Activate previous tab)
+alt RIGHT,Select Next Tab (Activate next tab)
+alt SLASH,Cyclic Expand Word (Cyclic Expand word)
+alt UP,Previous Method (Navigate to the previous method in the active editor)
+ctrl 0,Go to Bookmark 0
+ctrl 1,Go to Bookmark 1
+ctrl 2,Go to Bookmark 2
+ctrl 3,Go to Bookmark 3
+ctrl 4,Go to Bookmark 4
+ctrl 5,Go to Bookmark 5
+ctrl 6,Go to Bookmark 6
+ctrl 7,Go to Bookmark 7
+ctrl 8,Go to Bookmark 8
+ctrl 9,Go to Bookmark 9
+ctrl A,Select All (Select all)
+ctrl ADD,Expand (Expand folding region at caret)
+ctrl B,Declaration (Navigate to the declaration of the symbol at caret)
+ctrl BACK_QUOTE,Quick Switch Scheme... (Change current code style scheme, color&fonts scheme, keymap or Look&Feel)
+ctrl BACK_SPACE,Delete to Word Start
+ctrl C,Copy (Copy to clipboard)
+ctrl CLOSE_BRACKET,Move Caret to Code Block End
+ctrl D,Compare Directories
+ctrl D,Duplicate Line or Block
+ctrl DELETE,Delete to Word End
+ctrl DIVIDE,Comment with Line Comment (Comment/uncomment current line or selected block with line comments)
+ctrl DOWN,Previous (Previous console history entry)
+ctrl DOWN,Scroll Down
+ctrl E,Recent Files (Show list of recently viewed files)
+ctrl ENTER,Show Source (Open editor for the selected item)
+ctrl ENTER,Split Line
+ctrl EQUALS,Expand (Expand folding region at caret)
+ctrl F,Find... (Find a string in active editor)
+ctrl F1,Error Description (Show description of error or warning at caret)
+ctrl F11,Toggle Bookmark With Mnemonic
+ctrl F12,File Structure (Popup structure of the current file for quick navigation)
+ctrl F2,Stop (Stop process)
+ctrl F3,Find Word at Caret (Find next occurrence of the word at caret)
+ctrl F4,Close (Close currently focused content)
+ctrl F5,Rerun
+ctrl F6,Change Signature... (Change signature of the selected method or class and correct all references)
+ctrl F7,Find Usages in File (Find usages of the symbol at caret in active editor)
+ctrl F8,Toggle Line Breakpoint (Toggle line breakpoint at caret)
+ctrl G,Line... (Navigate to a line in editor by its number)
+ctrl H,Type Hierarchy (Browse hierarchy for the selected class)
+ctrl HOME,Move Caret to Text Start
+ctrl I,Implement Methods... (Implement base interface/class methods in the current class)
+ctrl J,Insert Live Template... (Show popup list of live templates starting with the specified prefix)
+ctrl K,Check In Project
+ctrl L,Find Next (Repeat the last Find/Replace operation)
+ctrl M,Scroll to Center
+ctrl MINUS,Collapse (Collapse folding region at caret)
+ctrl N,Class... (Quickly navigate to a class by name)
+ctrl O,Override Methods... (Override base class methods in the current class)
+ctrl OPEN_BRACKET,Move Caret to Code Block Start
+ctrl P,Parameter Info (Show parameters of the method call at caret)
+ctrl PAGE_DOWN,Move Caret to Page Bottom
+ctrl PAGE_UP,Move Caret to Page Top
+ctrl PERIOD,Fold Selection / Remove region (Fold selected block)
+ctrl Q,Quick Documentation (Show a popup window with documentation for the symbol at caret)
+ctrl R,Replace... (Replace a string in active editor with another string)
+ctrl S,Save All (Save all files and settings)
+ctrl SLASH,Comment with Line Comment (Comment/uncomment current line or selected block with line comments)
+ctrl SPACE,Basic (Complete code)
+ctrl SUBTRACT,Collapse (Collapse folding region at caret)
+ctrl T,Update Project
+ctrl TAB,Switcher
+ctrl U,Super Method (Navigate to the declaration of the method that current method overrides or implements)
+ctrl UP,Next (Next console history entry)
+ctrl UP,Scroll Up
+ctrl V,Paste (Paste from clipboard)
+ctrl W,Select Word at Caret
+ctrl X,Cut (Cut to clipboard)
+ctrl Y,Delete Line
+ctrl Z,Undo
+ctrl alt A,Add to VCS (Add to VCS)
+ctrl alt B,Implementation(s) (Navigate to the implementation(s) of the selected class or method)
+ctrl alt C,Constant... (Replace selected expression with a constant (static final field))
+ctrl alt CLOSE_BRACKET,Next Project Window (Switch to the next project window)
+ctrl alt DOWN,Next Occurrence (Navigate to the next occurrence)
+ctrl alt E,Browse History (Browse console history)
+ctrl alt ENTER,Start New Line Before Current
+ctrl alt F,Field... (Put a result of the selected expression into a field)
+ctrl alt F12,File Path (Popup path of the current file for opening in external file manager)
+ctrl alt F4,Jump to External Editor (Open image in external editor)
+ctrl alt F6,Show Code Coverage Data
+ctrl alt F7,Show Usages (Show usages of the symbol at caret)
+ctrl alt F8,Quick Evaluate Expression (Evaluate selected expression)
+ctrl alt F9,Force Run to Cursor (Run to the line where the caret is, ignoring any breakpoints)
+ctrl alt H,Call Hierarchy (Browse call hierarchy for the selected method)
+ctrl alt HOME,Related File... (Navigate to one of the related or linked files)
+ctrl alt I,Auto-Indent Lines (Indent current line or selected block according to the code style settings)
+ctrl alt INSERT,New... (Create new class, interface, file or directory)
+ctrl alt J,Surround with Live Template... (Surrounds the selection with one of the template)
+ctrl alt L,Reformat Code... (Reformat code)
+ctrl alt LEFT,Back (Undo last navigation operation)
+ctrl alt M,Method... (Turn the selected code fragment into a method)
+ctrl alt N,Inline... (Inline the selected method or variable)
+ctrl alt O,Optimize Imports... (Remove unused imports and reorder/reorganize imports)
+ctrl alt OPEN_BRACKET,Previous Project Window (Switch to the previous project window)
+ctrl alt P,Parameter... (Turn the selected expression into method parameter)
+ctrl alt PERIOD,
+ctrl alt RIGHT,Forward (Redo last undone navigation operation)
+ctrl alt S,Settings... (Configure application settings)
+ctrl alt SPACE,Class Name Completion (Complete class name and add import for it)
+ctrl alt T,Surround With... (Surround selected code fragment with if, while, try/catch or other construct)
+ctrl alt UP,Previous Occurrence (Navigate to the previous occurrence)
+ctrl alt V,Variable... (Put a result of the selected expression into a variable)
+ctrl alt X+E,Evaluate XPath... (Evaluate an XPath expression and highlight the result in the XML-Document)
+ctrl alt X+F,Find by XPath... (Find Files by XPath Expression)
+ctrl alt X+P,Show unique XPath (Show XPath expression that matches the current node)
+ctrl alt Y,Synchronize (Detect all externally changed files and reload them from disk)
+shift BACK_SPACE,Backspace
+shift DELETE,Cut (Cut to clipboard)
+shift DOWN,Down with Selection
+shift END,Move Caret to Line End with Selection
+shift ENTER,Start New Line
+shift ESCAPE,Hide Active Tool Window (Hide active tool window)
+shift F1,External Documentation (Open browser with documentation for the selected item)
+shift F10,Run (Run)
+shift F11,Show Bookmarks (Show list of all bookmarks)
+shift F12,Restore Default Layout (Restore default layout)
+shift F2,Previous Highlighted Error (Navigate to the previous highlighted error in the active editor)
+shift F3,Find Previous (Repeat the last Find/Replace operation in reverse direction)
+shift F5,Clone... (Create a copy of the selected class, file or directory in the same package/directory)
+shift F6,Rename... (Rename the selected symbol and correct all references)
+shift F7,Move to the Previous Difference (Move to the previous difference)
+shift F7,Smart Step Into (Step into the particular method)
+shift F8,Step Out (Step to the first line executed after returning from this method)
+shift F9,Debug (Debug)
+shift HOME,Move Caret to Line Start with Selection
+shift INSERT,Paste (Paste from clipboard)
+shift LEFT,Left with Selection
+shift PAGE_DOWN,Page Down with Selection
+shift PAGE_UP,Page Up with Selection
+shift RIGHT,Right with Selection
+shift TAB,Prev Parameter
+shift TAB,Previous Parameter
+shift TAB,Previous Template Variable
+shift TAB,Unindent Selection
+shift UP,Up with Selection
+shift alt B,Open in Browser
+shift alt BACK_SPACE,Redo
+shift alt C,Recent Changes
+shift alt DOWN,Move Line Down (Move selected lines one line down)
+shift alt F,Add to Favorites (Add selected node to favorites)
+shift alt F10,Run... (Choose and run configuration)
+shift alt F7,Force Step Into (Step into, ignore stepping filters for libraries, constructors, etc.)
+shift alt F8,Force Step Over (Step over, disable all breakpoints before stepping.)
+shift alt F9,Debug... (Choose and debug configuration)
+shift alt I,Inspect Code With Editor Settings (Inspect Code With _Editor Settings)
+shift alt INSERT,Column Selection Mode (Toggle column selection mode in current editor)
+shift alt L,Load Context...
+shift alt LEFT,Select Previous Tab in multi-editor file
+shift alt N,Open Task...
+shift alt RIGHT,Select Next Tab in multi-editor file
+shift alt S,Save Context...
+shift alt SLASH,Cyclic Expand Word (Backward) (Cyclic Expand word (Backward))
+shift alt T,Switch Task
+shift alt T,Switch Task...
+shift alt UP,Move Line Up (Move selected lines one line up)
+shift alt X,Clear Context
+shift ctrl 0,Toggle Bookmark 0
+shift ctrl 1,Toggle Bookmark 1
+shift ctrl 2,Toggle Bookmark 2
+shift ctrl 3,Toggle Bookmark 3
+shift ctrl 4,Toggle Bookmark 4
+shift ctrl 5,Toggle Bookmark 5
+shift ctrl 6,Toggle Bookmark 6
+shift ctrl 7,Toggle Bookmark 7
+shift ctrl 8,Toggle Bookmark 8
+shift ctrl 9,Toggle Bookmark 9
+shift ctrl A,Find Action... (Quickly navigate to action by name)
+shift ctrl ADD,Expand All (Expand all folding regions)
+shift ctrl B,Type Declaration (Navigate to the declaration of the symbol's type at caret)
+shift ctrl BACK_SPACE,Last Edit Location (Move through the most recent change points)
+shift ctrl C,Copy Paths (Copy paths corresponding to selected files or directories to clipboard)
+shift ctrl CLOSE_BRACKET,Move Caret to Code Block End with Selection
+shift ctrl DELETE,Unwrap/Remove... (Safely unwraps or removes the selected scope)
+shift ctrl DIVIDE,Comment with Block Comment (Comment/uncomment code with block comments)
+shift ctrl DOWN,Move Statement Down (Move selected statements one line down)
+shift ctrl DOWN,Stretch to Bottom (Resize active tool window to the bottom)
+shift ctrl E,Recently Changed Files (Show list of recently changed files)
+shift ctrl END,Move Caret to Text End with Selection
+shift ctrl ENTER,Choose Lookup Item and Invoke Complete Statement
+shift ctrl ENTER,Complete Current Statement
+shift ctrl EQUALS,Expand All (Expand all folding regions)
+shift ctrl F,Find in Path... (Find a string in multiple files)
+shift ctrl F10,Run context configuration
+shift ctrl F12,Hide All Tool Windows (Hide all tool windows)
+shift ctrl F4,Close Active Tab (Close active tool window tab)
+shift ctrl F7,Highlight Usages in File (Highlight usages of the symbol at caret in active editor)
+shift ctrl F8,Edit
+shift ctrl F8,View Breakpoints... (View and manage all breakpoints and watchpoints)
+shift ctrl H,Method Hierarchy (Browse method hierarchy for the selected method)
+shift ctrl HOME,Move Caret to Text Start with Selection
+shift ctrl I,Quick Definition (Show a popup window with the symbol (and its implementations) content)
+shift ctrl INSERT,Paste from History... (Paste from recent clipboards)
+shift ctrl J,Join Lines
+shift ctrl L,Find Previous (Repeat the last Find/Replace operation in reverse direction)
+shift ctrl LEFT,Move Caret to Previous Word with Selection
+shift ctrl LEFT,Stretch to Left (Resize active tool window to the left)
+shift ctrl MINUS,Collapse All (Collapse all folding regions)
+shift ctrl N,File... (Quickly navigate to a file by name)
+shift ctrl OPEN_BRACKET,Move Caret to Code Block Start with Selection
+shift ctrl PAGE_DOWN,Move Caret to Page Bottom with Selection
+shift ctrl PAGE_UP,Move Caret to Page Top with Selection
+shift ctrl R,Replace in Path... (Replace a string in multiple files with another string)
+shift ctrl RIGHT,Move Caret to Next Word with Selection
+shift ctrl RIGHT,Stretch to Right (Resize active tool window to the right)
+shift ctrl S,Save As..
+shift ctrl SLASH,Comment with Block Comment (Comment/uncomment code with block comments)
+shift ctrl SPACE,SmartType (Complete code basing on expected type)
+shift ctrl SUBTRACT,Collapse All (Collapse all folding regions)
+shift ctrl T,Show Image Thumbnails (Show thumbnails view for current directory)
+shift ctrl T,Test (Navigate to the test of the selected class)
+shift ctrl TAB,Goto Previous Splitter (Goto previous splitter window)
+shift ctrl TAB,Switcher
+shift ctrl U,Toggle Case
+shift ctrl UP,Move Statement Up (Move selected statements one line up)
+shift ctrl UP,Stretch to Top (Resize active tool window to the top)
+shift ctrl V,Paste from History... (Paste from recent clipboards)
+shift ctrl W,Unselect Word at Caret
+shift ctrl Z,Redo
+shift ctrl alt C,Copy Reference (Copy reference to selected class, method or function)
+shift ctrl alt DOWN,Next Change (Go to next change)
+shift ctrl alt F7,Show Usages Settings (Choose scope and edit options for the Show Usages action)
+shift ctrl alt H,Configure Current File Analysis... (Show panel to configure highlighting mode for the current file)
+shift ctrl alt I,Run Inspection by Name...
+shift ctrl alt N,Symbol... (Quickly navigate to any symbol by name)
+shift ctrl alt T,Refactor This... (Context aware popup with list of refactoring actions)
+shift ctrl alt UP,Previous Change (Go to previous change)
+shift ctrl alt V,Paste Simple (Paste without formatting, autoimport, literal escaping etc.)

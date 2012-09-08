@@ -1,0 +1,42 @@
+<idea-plugin version="2">
+  <id>com.johnlinquist.shortcuthero</id>
+  <name>Shortcut Hero</name>
+  <version>0.1</version>
+  <vendor email="johnlindquist@gmail.com" url="http://www.johnlindquist.com">johnlindquist</vendor>
+
+  <description><![CDATA[
+      A game to learn the Intellij keyboard shortcuts
+      ]]></description>
+
+  <change-notes><![CDATA[
+      Preview release
+      ]]>
+  </change-notes>
+
+  <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Build+Number+Ranges for description -->
+  <idea-version since-build="107.105"/>
+
+  <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
+       on how to target different products -->
+  <depends>com.intellij.modules.lang</depends>
+
+  <application-components>
+    <!-- Add your application components here -->
+  </application-components>
+
+  <project-components>
+    <!-- Add your project components here -->
+  </project-components>
+
+  <actions>
+    <!-- Add your actions here -->
+      <action id="ListShortcutsAction" class="ListShortcutsAction" text="ListShortcutsAction"
+              description="Lists Shortcuts">
+          <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl alt BACK_SLASH"/>
+      </action>
+  </actions>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+</idea-plugin>
